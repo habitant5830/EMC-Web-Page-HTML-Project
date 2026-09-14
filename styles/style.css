@@ -12,3 +12,25 @@ th,
 td {
   border: 1px solid black;
 }
+
+footer {
+  word-spacing: 2px;
+  text-align: center;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+div table {
+  margin: 0 auto;
+  outline: none;
+}
+
+.no-border,
+.no-border th,
+.no-border td {
+  border: none;
+  outline: none;
+  padding: 1rem;
+}
