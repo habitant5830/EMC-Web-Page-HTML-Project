@@ -1,20 +1,14 @@
-:root {
-  font-family: "Times New Roman", Times, serif;
-}
-
-h1 {
+div.main-section {
   text-align: center;
 }
 
-tr {
+div.video-box {
   text-align: center;
+  margin: 2rem;
 }
 
+table,
+th,
 td {
-  padding: 2rem;
-}
-
-div {
-  display: flex;
-  justify-content: center;
+  border: 1px solid black;
 }
